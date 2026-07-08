@@ -50,11 +50,11 @@ Voici quelques projets que je mets progressivement en avant :
 
 ---
 
-## 📊 Statistiques GitHub
+## 📊 GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=S3333B&show_icons=true&theme=tokyonight)
+Mes projets publics sont disponibles directement sur mon profil GitHub.  
+Je publie progressivement des projets autour du développement web, de l’UI/UX, de JavaScript, React, Python et Flask.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S3333B&layout=compact&theme=tokyonight)
 ---
 
 ## 📫 Me contacter
