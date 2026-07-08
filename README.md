@@ -52,10 +52,10 @@ Voici quelques projets que je mets progressivement en avant :
 
 ## 📊 Statistiques GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?S3333B=S3333B&show_icons=true&theme=tokyonight)
+## 📊 Statistiques GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?S3333B=S3333B&layout=compact&theme=tokyonight)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=S3333B&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S3333B&layout=compact&theme=tokyonight)
 ---
 
 ## 📫 Me contacter
